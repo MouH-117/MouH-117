@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-### Hey there! <img src="https://tenor.com/en-GB/view/hello-there-obi-wan-kenobi-star-wars-hey-hello-gif-17534947" width="25"/>
+### Hey there! 🍃
 
 I’m **Mohamed**, also **MouH**, a developer from and based in Algeria.
 
