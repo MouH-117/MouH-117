@@ -17,6 +17,8 @@ My journey has just started and willing to go **To The Infinity, And Beyond**.
 #### Who's MouH ? you might ask (Some things about me):
 
 * I always need **COFFEE**
+* Software Engineering Graduate (Bachelor Degree)
+* Along programming, I like drawing pixel arts and making simple graphic designs
 * I love video games, movies and tv shows
 * I have a good small collection of Lego and Funko Pop
-* I was with Google Developer Group
+* I was part of Google Developer Group
