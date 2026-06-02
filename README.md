@@ -22,3 +22,10 @@ My journey has just started and willing to go **To The Infinity, And Beyond**.
 * I love video games, movies and tv shows
 * I have a good small collection of Lego and Funko Pop
 * I was part of Google Developer Group
+
+---
+ Will I say that Scrimba is my new favourite place to learn and improve my skills ? **Absolutely !** and you need to check it out: [Scrimba](https://scrimba.com/?via=u019s7t) ✨ (I'm a Scrimbassador – I may earn a commission if you subscribe, and my link gets you 20% extra off Pro when you upgrade.)
+
+ ### Completed Scrimba Courses
+
+ ⭐ **[Learn Git and Github](https://scrimba.com/learn-git-and-github-c0eh4kd7df?via=u019s7t)**
