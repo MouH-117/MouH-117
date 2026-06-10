@@ -29,3 +29,8 @@ My journey has just started and willing to go **To The Infinity, And Beyond**.
  ### Completed Scrimba Courses
 
  ⭐ **[Learn Git and Github](https://scrimba.com/learn-git-and-github-c0eh4kd7df?via=u019s7t)**
+
+---
+
+## 🛠️ Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=7)](https://skillicons.dev)
